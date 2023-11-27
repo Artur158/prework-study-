@@ -1,2 +1,2 @@
-# prework-study-
+# prework-study
 a test repository
